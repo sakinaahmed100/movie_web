@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -32,3 +33,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+=======
+# movie_web
+Movie Website using Next.js Welcome to the Movie Website built using Next.js! This project is a simple movie website that fetches movie data from an API and displays it on the website. It's a great starting point for learning about Next.js and integrating APIs into your projects.
+>>>>>>> fd7df551b4de7ab4c15fa060ae95812d35ccd27b
