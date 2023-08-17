@@ -1,0 +1,45 @@
+.hero {
+    padding: 15vh 10vw;
+    background-color: #070505;
+    justify-content: space-between;
+
+}
+
+.heroHeading {
+    font-size: 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+    text-shadow: 0 0 10px white, 0 0 20px #FFD700, 0 0 30px #FFD700;
+
+}
+
+.para{
+    font-size: 1rem;
+    text-shadow: none;
+  
+  
+  }
+.label {
+    background-color: #FFD700;
+    color: white;
+}
+
+.labelText {
+    color: white;
+
+}
+
+.labelTwo {
+    background-color: #FFD700;
+}
+
+.heroText {
+    color: white;
+    border-left: 3px solid white;
+    padding-left: 2vw;
+    margin-left: 2vw;
+
+
+}

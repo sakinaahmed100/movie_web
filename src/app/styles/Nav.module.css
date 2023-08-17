@@ -1,0 +1,12 @@
+.nav{
+    gap: 1rem;
+    color: white;
+
+}
+.list{
+    list-style: none;
+}
+
+.link{
+    color: white;
+}

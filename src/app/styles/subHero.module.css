@@ -1,0 +1,37 @@
+.subHero {
+    background-color: white;
+    padding: 15vh 10vw;
+    gap: 2rem;
+    border-bottom: 5px solid #FFD700;
+    box-shadow: 5px 5px 14px 10px rgba(0, 0, 0, 0.3) inset;
+}
+
+.heading {
+    font-size: 1.5rem;
+    color: white;
+    background-color: black;
+    padding: 5rem 4rem;
+    border-radius: 2rem;
+    text-align: center;
+
+}
+
+.download {
+    font-size: 3rem;
+    font-weight: 500;
+    color: #FFD700;
+    display: block;
+
+}
+
+.subHeroText {
+    padding: 1rem;
+    border-radius: 2rem;
+    border: 10px ridge #FFD700;
+    box-shadow: 0 0 10px rgba(255, 215, 0, 0.5); 
+    background: #ebde94;
+}
+
+.image{
+    border-radius: 2rem;
+}

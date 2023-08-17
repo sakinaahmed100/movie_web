@@ -1,0 +1,51 @@
+.contact_page{
+    background: #ffd700;
+    display: flex;
+    flex-direction: column;
+    margin: 5vh 20vw;
+    padding: 5vh 5vw;
+    padding: 4vh 2vw;
+    text-align: center;
+    color: rgb(99, 94, 94);
+    border: 2px double black;
+    border-radius: 1rem;
+}
+.para{
+color: black;
+}
+.contact_form,.contact_info{
+    display: grid;
+    justify-content: center;
+    padding: 2vh 0;
+
+}
+.form_group,.form_div{
+display: grid;
+grid-template-columns: .5fr 1fr;
+row-gap: .5rem;
+padding: 2vh 0;
+
+
+}
+
+.input{
+    border-radius: 10px;
+}
+
+.li{
+    list-style: none;
+}
+
+.btn{
+    background-color: white;
+    border: none;
+    padding: .6rem 1vw;
+    border-radius: .3rem;
+
+}
+
+.btn:hover{
+    background-color: black;
+    color: white;
+
+}

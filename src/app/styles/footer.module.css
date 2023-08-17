@@ -1,0 +1,44 @@
+.footer{
+    border-top: 5px solid white;
+    position: sticky;
+    /* width: 100vw; */
+    width: 100%;
+
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 2rem;
+    padding: 4rem 10rem;
+    color: white;
+    background-color: #313030;
+}
+.col{
+    display:grid;
+    gap:1rem;
+    align-items: center;
+    align-content: center
+}
+.col li{
+list-style: none;
+}
+.input{
+    height: 5vh;
+}
+.iconList{
+    display: flex;
+    justify-content: flex-start;
+    gap: .5rem;
+    padding-top: 1rem;
+
+}
+
+.copyright{
+    height: 7vh;
+    background: #000;
+    /* width: 100%; */
+    color: #FFD700;
+    display: grid;
+    place-content: center;
+}

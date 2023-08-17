@@ -1,0 +1,48 @@
+.movie{
+    background: #000;
+    padding: 10vh 5vw;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    row-gap: 3rem;
+    column-gap: 2rem;
+}
+.movieCard{
+    display: flex;
+    padding:  1rem .8rem;
+    gap: 1rem;
+    width: 26vw;
+    color: white;
+    border: 1px solid #ffd700;
+    border-radius: 1rem;
+    justify-content: center;
+    align-items: center;
+
+}
+.Text{
+    border-left: 1px solid #ffd700;
+    padding-left: .5rem;
+}
+
+.Title{
+    color: #ffd700;
+    font-size: 1rem;
+}
+.Year{
+    font-size: .7rem;
+
+}
+
+.description{
+    font-size: .8rem;
+    color: rgb(173, 162, 147);
+
+}
+.movieCard:hover{
+    background:white;
+    color: black;
+    transform: scale(1.1);
+}
+
+.image{
+    border-radius: 10px;
+}
